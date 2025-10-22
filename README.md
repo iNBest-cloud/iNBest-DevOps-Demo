@@ -1,4 +1,4 @@
-# iNBest-DevOps-Demo-Proan
+# iNBest-DevOps-Demo
 
 # 🛠️ Caso Práctico DevOps: GitHub + SonarQube + IIS
 
@@ -6,7 +6,7 @@ Este documento presenta el temario del caso práctico orientado a la adopción d
 
 ---
 
-## 📑 Temario
+## 📑 Temario 
 
 ### 1. Introducción al Caso Práctico
 - Objetivo del ejercicio  
